@@ -16,17 +16,12 @@ In the spirit of reconciliation, SLSSA acknowledges the First Nations of South A
 
 ## Endorsement
 
-Sean Faulkner
-
-Head of Lifesaving and Emergency Operations
-
+Sean Faulkner\
+Head of Lifesaving and Emergency Operations\
 Surf Life Saving SA
 
-
-Mike Hartas
-
-Chair, Lifesaving Advisory Committee
-
+Mike Hartas\
+Chair, Lifesaving Advisory Committee\
 Surf Life Saving SA
 
 ## Contributions
