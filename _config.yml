@@ -16,7 +16,9 @@ title: Standard Operating Proceedures
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: slssa-logo
+
+title-icon: slssa-logo-small
+
 # description appears in sidebar footer
 description: "Surf Lifesaving South Australia SOPs"
 # keywords for meta tags used by search engines
