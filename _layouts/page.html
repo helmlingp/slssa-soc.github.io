@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: default 
 ---
+<div class="container-xxl" >
 
-<article class="page">
+    <!-- Page content-->
+    <main id="maincontent" role="main" aria-label="Content">
+        <div class="px-1 py-4">
+            <h1 class="mb-4">{{ page.title }}</h1>
+            {{ content }}
+        </div>
+    </main>
 
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-</article>
+</div>
