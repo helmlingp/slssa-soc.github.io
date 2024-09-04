@@ -1,5 +1,5 @@
-
-1.1 Work Health and Safety
+layout: page
+title: 1.1 Work Health and Safety
 
 Purpose
 This Standard Operating Procedure communicates the health and safety responsibilities of volunteers, staff and third parties to ensure a safe and healthy environment for everyone.
