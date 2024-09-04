@@ -1,4 +1,5 @@
-# Welcome
+layout: page
+title: Welcome
 
 Welcome to the Surf Life Saving SA (SLSSA) Standard Operating Procedures (SOPs). This document serves as the cornerstone of our operational framework, outlining essential protocols and best practices designed to ensure the safety and efficiency of our Surf Life Saving operations. The SOPs provide a structured approach to managing both routine and emergency situations and are vital for maintaining the high standards of safety, professionalism, and preparedness that are central to our mission.
 
