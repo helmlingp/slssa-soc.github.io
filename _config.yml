@@ -17,7 +17,7 @@ title: Standard Operating Proceedures
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 
-title-icon: slssa-logo
+title-icon: Roundel_Horizontal_LeftAligned_SA_Colour_Blue
 
 # description appears in sidebar footer
 description: "Surf Lifesaving South Australia SOPs"
@@ -43,15 +43,15 @@ publication_year: 2024
 # leave these commented out or blank for defaults.
 # these options tweak CSS, so should be valid CSS values.
 #
-# header-background: 
-# header-text-color: 
-# breadcrumbs-background: 
-# breadcrumbs-text-color: 
+header-background: #ff0000
+header-text-color: #0066ff
+breadcrumbs-background: #ffffff
+breadcrumbs-text-color: #000000
 # active-nav-color: 
 # link-color:
-# next-button-color:
+next-button-color: #0066ff
 # text-color: 
-# base-font-size:
+base-font-size: 1rem
 
 ##########
 # URL VARIABLES [optional!]

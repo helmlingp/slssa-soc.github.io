@@ -13,25 +13,22 @@ In addition to outlining specific procedures, this manual emphasises the importa
 
 As you navigate through this document, we encourage you to familiarise yourself with the content and integrate these procedures into your daily practices. Your adherence to these SOPs is crucial for maintaining the high standards of safety and professionalism that define Surf Life Saving SA. Together, we can continue to uphold our commitment to safeguarding lives and enhancing the safety of our community on the shores of South Australia.
 
-Acknowledgement of Country
+### Acknowledgement of Country
+
 In the spirit of reconciliation, SLSSA acknowledges the First Nations of South Australia as the traditional custodians of the lands and waterways upon which we live, work and volunteer. SLSSA recognises and respects their continuing cultural and spiritual connection with the land, skies, waterways, and community.
 
-## Endorsement
+### Endorsement
 
-Sean Faulkner\
+**Sean Faulkner**\
 Head of Lifesaving and Emergency Operations\
 Surf Life Saving SA
 
-Mike Hartas\
+**Mike Hartas**\
 Chair, Lifesaving Advisory Committee\
 Surf Life Saving SA
 
-## Contributions
+### Contributions
 
 This document was developed through the dedicated efforts of volunteers from the Standard Operating Procedures (SOP) Working Group, a subcommittee of the Lifesaving Advisory Committee. These volunteers, including the State Officer (Aerial Services), State Officer (Communications), State Officer (Powercraft), State Medical Advisor, Lifesaving and Emergency Operations Coordinator, and four general members, each with experience in Surf Life Saving, emergency management, or related fields, worked collaboratively to make recommendations and assist in the creation of SOPs for Surf Life Saving SA’s operational areas. Surf Life Saving SA recognises and values the significant contributions of these members.
 
 Surf Life Saving SA acknowledges the kind support of Surf Life Saving NSW to develop the SLSSA Standard Operating Procedures.
-
-{% include toc.html %}
-
-{% include template/credits.html %}
