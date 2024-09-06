@@ -43,11 +43,11 @@ publication_year: 2024
 # leave these commented out or blank for defaults.
 # these options tweak CSS, so should be valid CSS values.
 #
-# header-background: 0161aa
+# header-background:
 # header-text-color: 
-breadcrumbs-background: #0161AA
+breadcrumbs-background: 0161AA
 # breadcrumbs-text-color:
-# active-nav-color: 
+active-nav-color: 0161AA
 # link-color:
 next-button-color: 0161AA
 # text-color: 
