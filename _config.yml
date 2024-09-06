@@ -11,7 +11,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Standard Operating Proceedures
+title: Standard Operating Procedures
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
@@ -43,13 +43,13 @@ publication_year: 2024
 # leave these commented out or blank for defaults.
 # these options tweak CSS, so should be valid CSS values.
 #
-header-background: #ff0000
-header-text-color: #0066ff
-breadcrumbs-background: #ffffff
-breadcrumbs-text-color: #000000
+# header-background: 0161aa
+# header-text-color: 
+breadcrumbs-background: 0161aa
+# breadcrumbs-text-color:
 # active-nav-color: 
 # link-color:
-next-button-color: #0066ff
+next-button-color: 0161aa
 # text-color: 
 base-font-size: 1rem
 
