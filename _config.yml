@@ -45,11 +45,11 @@ publication_year: 2024
 #
 # header-background:
 # header-text-color: 
-breadcrumbs-background: 0161AA
+breadcrumbs-background: '#0161AA'
 # breadcrumbs-text-color:
-# active-nav-color: 0161AA
+active-nav-color: '#0161AA'
 # link-color:
-next-button-color: 0161AA
+next-button-color: '#0161AA'
 # text-color: 
 base-font-size: 1rem
 
