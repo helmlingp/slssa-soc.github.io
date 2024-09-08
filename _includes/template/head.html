@@ -38,7 +38,7 @@
   meta tags and analytics are added during production build ONLY 
 {%- endcomment -%}
 {% if site.noindex == true or page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex" />{% endif %}
-{% if jekyll.environment == "production" %}
+<!-- {% if jekyll.environment == "production" %} -->
 {% include template/analytics.html %}
-{%- endif -%}
+<!-- {%- endif -%} -->
 <!-- Last build date: {{ site.time | date: "%Y-%m-%d" }} -->

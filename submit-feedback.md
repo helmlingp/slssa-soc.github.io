@@ -1,5 +1,5 @@
 ---
-section_id: Submit Feedback
+section_id: Ask Question or Submit Feedback
 nav_order: 0
 title: Feedback
 layout: lesson-content
