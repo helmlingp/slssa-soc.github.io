@@ -3,6 +3,10 @@
     {
       "route": "/*",
       "allowedRoles": ["authenticated"]
+    },
+    {
+      "route": "/login",
+      "redirect": "/.auth/login/aad"
     }
   ],
   "responseOverrides": {
@@ -24,9 +28,9 @@
     "identityProviders": {
       "azureActiveDirectory": {
         "registration": {
-          "openIdIssuer": "https://login.microsoftonline.com/my-tenant-id/v2.0",
+          "openIdIssuer": "https://login.microsoftonline.com/0c31d2df-c736-4073-bf96-b344f9c3bca3/v2.0",
           "clientIdSettingName": "AZURE_CLIENT_ID",
-          "clientSecretSettingName": "AZURE_CLIENT_SECRET"
+          "clientSecretSettingName": "AZURE_CLIENT_SECRET_APP_SETTING_NAME"
         }
       }
     }
