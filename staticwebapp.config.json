@@ -1,14 +1,6 @@
 {
   "routes": [
     {
-      "route": "/logon",
-      "allowedRoles": ["anonymous"]
-    },
-    {
-      "route": "/logout",
-      "allowedRoles": ["anonymous"]
-    },
-    {
       "route": "/*",
       "allowedRoles": ["authenticated"]
     }
@@ -18,7 +10,7 @@
       "rewrite": "/400.html"
     },
     "401": {
-      "redirect": "/logon?post_login_redirect_uri=/",
+      "redirect": "/.auth/login/aad?post_login_redirect_uri=/",
       "statusCode": 302
     },
     "403": {
