@@ -1,10 +1,4 @@
 {
-  "routes": [
-    {
-      "route": "/*",
-      "allowedRoles": ["authenticated"]
-    }
-  ],
   "responseOverrides": {
     "400": {
       "rewrite": "/400.html"
