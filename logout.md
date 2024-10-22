@@ -1,6 +1,6 @@
 ---
 title: Logout
-layout: lesson-content
+layout: page
 ---
 
 Please logout when you have finished on this site. 

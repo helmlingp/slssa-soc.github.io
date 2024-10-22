@@ -1,6 +1,6 @@
 ---
 title: Login
-layout: lesson-content
+layout: page
 ---
 
 Please Login to use this resource.
