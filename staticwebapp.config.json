@@ -4,7 +4,7 @@
       "rewrite": "/400.html"
     },
     "401": {
-      "redirect": "/.auth/login/aad",
+      "redirect": "/.auth/login/auth0",
       "statusCode": 302
     },
     "403": {
@@ -15,22 +15,24 @@
     }
   },
   "auth": {
-    "identityProviders": {
-      "azureActiveDirectory": {
-        "registration": {
-          "openIdIssuer": "https://login.microsoftonline.com/0c31d2df-c736-4073-bf96-b344f9c3bca3/v2.0",
-          "clientIdSettingName": "AZURE_CLIENT_ID",
-          "clientSecretSettingName": "AZURE_CLIENT_SECRET_APP_SETTING_NAME"
-        }
+      "identityProviders": {
+          "customOpenIdConnectProviders": {
+              "auth0": {
+                  "registration": {
+                      "clientIdSettingName": "AUTH0_ID",
+                      "clientCredential": {
+                          "clientSecretSettingName": "AUTH0_SECRET"
+                      },
+                      "openIdConnectConfiguration": {
+                          "wellKnownOpenIdConfiguration": "https://https://dev-44fpvkcla3esxwq8.au.auth0.com/.well-known/openid-configuration"
+                      }
+                  },
+                  "login": {
+                      "nameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+                      "scopes": ["openid", "profile"]
+                  }
+              }
+          }
       }
-    }
-  },
-  "routes": [
-    {
-      "route": "/*",
-      "allowedRoles": [
-        "authenticated"
-      ]
-    }
-  ]
+  }
 }
