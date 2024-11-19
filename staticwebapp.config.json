@@ -1,19 +1,4 @@
 {
-  "responseOverrides": {
-    "400": {
-      "rewrite": "/400.html"
-    },
-    "401": {
-      "redirect": "/.auth/login/auth0",
-      "statusCode": 302
-    },
-    "403": {
-      "rewrite": "/403.html"
-    },
-    "404": {
-      "rewrite": "/404.html"
-    }
-  },
   "auth": {
       "identityProviders": {
           "customOpenIdConnectProviders": {
@@ -24,7 +9,7 @@
                           "clientSecretSettingName": "AUTH0_SECRET"
                       },
                       "openIdConnectConfiguration": {
-                          "wellKnownOpenIdConfiguration": "https://https://dev-44fpvkcla3esxwq8.au.auth0.com/.well-known/openid-configuration"
+                          "wellKnownOpenIdConfiguration": "https://dev-44fpvkcla3esxwq8.au.auth0.com/.well-known/openid-configuration"
                       }
                   },
                   "login": {
